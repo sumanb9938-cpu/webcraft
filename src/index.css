@@ -1,0 +1,8 @@
+/* You can add any global base styles here if needed. */
+/* For this project, Tailwind CSS handles most of the styling. */
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
